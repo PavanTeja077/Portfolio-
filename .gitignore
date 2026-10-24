@@ -24,7 +24,11 @@ dist-ssr
 *.sw?
 
 saved_assets/
-user_photo.jpg
-hero_unmasked.jpg
-mypic.jpg
-spydy_hang.png
+downloaded_assets/
+assets_original/
+/user_photo.jpg
+/hero_unmasked.jpg
+/mypic.jpg
+/spydy_hang.png
+bundle.js
+bundle.css
